@@ -1,0 +1,2314 @@
+[
+  {
+    "name": "scaffold",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Watchdog",
+        "getValue": true
+      },
+      {
+        "name": "Downwards",
+        "getValue": false
+      },
+      {
+        "name": "Block overlay",
+        "getValue": false
+      },
+      {
+        "name": "Show blocks",
+        "getValue": true
+      },
+      {
+        "name": "Render block",
+        "getValue": true
+      },
+      {
+        "name": "Placement delay",
+        "getValue": false
+      },
+      {
+        "name": "Delay",
+        "getValue": 50
+      },
+      {
+        "name": "Keep Y",
+        "getValue": true
+      },
+      {
+        "name": "Switch item",
+        "getValue": true
+      },
+      {
+        "name": "Switch modes",
+        "getValue": "INSTANT"
+      },
+      {
+        "name": "Placement method",
+        "getValue": "ARTIFICIAL"
+      },
+      {
+        "name": "Swing",
+        "getValue": false
+      },
+      {
+        "name": "Placement modes",
+        "getValue": "POST"
+      },
+      {
+        "name": "Tower",
+        "getValue": false
+      },
+      {
+        "name": "Safewalk",
+        "getValue": true
+      },
+      {
+        "name": "Safewalk modes",
+        "getValue": "NORMAL"
+      },
+      {
+        "name": "Sprint",
+        "getValue": true
+      },
+      {
+        "name": "Movement correction",
+        "getValue": false
+      },
+      {
+        "name": "Auto jump",
+        "getValue": false
+      },
+      {
+        "name": "Silent auto jump",
+        "getValue": false
+      },
+      {
+        "name": "Jump modes",
+        "getValue": "CUSTOM"
+      },
+      {
+        "name": "Jump boost amount",
+        "getValue": 0.04
+      },
+      {
+        "name": "Custom vertical amount",
+        "getValue": false
+      },
+      {
+        "name": "Jump vertical amount",
+        "getValue": 0.1
+      },
+      {
+        "name": "Custom speed",
+        "getValue": false
+      },
+      {
+        "name": "Randomize custom speed",
+        "getValue": false
+      },
+      {
+        "name": "Random speed amount",
+        "getValue": 0.02
+      },
+      {
+        "name": "Speed",
+        "getValue": 0.29
+      },
+      {
+        "name": "Rotation modes",
+        "getValue": "NONE"
+      },
+      {
+        "name": "Keep rotation",
+        "getValue": false
+      },
+      {
+        "name": "Smart",
+        "getValue": false
+      },
+      {
+        "name": "Smooth rotation",
+        "getValue": false
+      },
+      {
+        "name": "Turn speed",
+        "getValue": 180
+      },
+      {
+        "name": "Randomize turn speed",
+        "getValue": false
+      },
+      {
+        "name": "Randomize amount",
+        "getValue": 14.0
+      }
+    ]
+  },
+  {
+    "name": "nofall",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Mode",
+        "getValue": "EDIT"
+      }
+    ]
+  },
+  {
+    "name": "timer",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Timer mode",
+        "getValue": "NORMAL"
+      },
+      {
+        "name": "Tick delay",
+        "getValue": false
+      },
+      {
+        "name": "Ticks",
+        "getValue": 1.0
+      },
+      {
+        "name": "Speed",
+        "getValue": 10.0
+      }
+    ]
+  },
+  {
+    "name": "blink",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Pulse",
+        "getValue": false
+      },
+      {
+        "name": "Backtrack line",
+        "getValue": false
+      },
+      {
+        "name": "Clone",
+        "getValue": false
+      },
+      {
+        "name": "Real time",
+        "getValue": false
+      },
+      {
+        "name": "Only with Timer",
+        "getValue": false
+      },
+      {
+        "name": "Real time Delay",
+        "getValue": 50
+      },
+      {
+        "name": "Delay",
+        "getValue": 10
+      }
+    ]
+  },
+  {
+    "name": "freecam",
+    "enabled": false,
+    "properties": []
+  },
+  {
+    "name": "norender",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Title",
+        "getValue": true
+      },
+      {
+        "name": "Items",
+        "getValue": true
+      },
+      {
+        "name": "Boss bar",
+        "getValue": true
+      },
+      {
+        "name": "Armor stands",
+        "getValue": true
+      },
+      {
+        "name": "Invisible entities",
+        "getValue": true
+      },
+      {
+        "name": "Invisible players",
+        "getValue": true
+      }
+    ]
+  },
+  {
+    "name": "particles",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Custom color",
+        "getValue": true
+      },
+      {
+        "name": "Color",
+        "getValue": -1
+      }
+    ]
+  },
+  {
+    "name": "mcf",
+    "enabled": false,
+    "properties": []
+  },
+  {
+    "name": "killsults",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Shout",
+        "getValue": true
+      }
+    ]
+  },
+  {
+    "name": "chatbypass",
+    "enabled": false,
+    "properties": []
+  },
+  {
+    "name": "xray",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Hypixel",
+        "getValue": false
+      },
+      {
+        "name": "Coal",
+        "getValue": false
+      },
+      {
+        "name": "Iron",
+        "getValue": false
+      },
+      {
+        "name": "Gold",
+        "getValue": false
+      },
+      {
+        "name": "Redstone",
+        "getValue": false
+      },
+      {
+        "name": "Lapis",
+        "getValue": false
+      },
+      {
+        "name": "Diamonds",
+        "getValue": false
+      },
+      {
+        "name": "Emeralds",
+        "getValue": false
+      }
+    ]
+  },
+  {
+    "name": "breadcrumbs",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Seconds until disappear",
+        "getValue": 10
+      },
+      {
+        "name": "Chroma",
+        "getValue": false
+      },
+      {
+        "name": "Points",
+        "getValue": false
+      }
+    ]
+  },
+  {
+    "name": "camera",
+    "enabled": true,
+    "properties": [
+      {
+        "name": "Hurt Cam",
+        "getValue": true
+      },
+      {
+        "name": "No Speed FoV",
+        "getValue": true
+      }
+    ]
+  },
+  {
+    "name": "itemphysics",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Speed",
+        "getValue": 0.5
+      }
+    ]
+  },
+  {
+    "name": "bedbreaker",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Reach",
+        "getValue": 4.0
+      }
+    ]
+  },
+  {
+    "name": "timechanger",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Time",
+        "getValue": 18400
+      }
+    ]
+  },
+  {
+    "name": "penisesp",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Self Length",
+        "getValue": 2.0
+      },
+      {
+        "name": "Friend Length",
+        "getValue": 0.1
+      },
+      {
+        "name": "Enemy Length",
+        "getValue": 0.1
+      },
+      {
+        "name": "Uncircumcised",
+        "getValue": false
+      }
+    ]
+  },
+  {
+    "name": "itemesp",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Mode",
+        "getValue": "CSGO"
+      },
+      {
+        "name": "Color",
+        "getValue": -16711924
+      }
+    ]
+  },
+  {
+    "name": "skeletonesp",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Visible Only",
+        "getValue": true
+      },
+      {
+        "name": "Width",
+        "getValue": 1.0
+      }
+    ]
+  },
+  {
+    "name": "chestesp",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Redstone",
+        "getValue": -5373697
+      },
+      {
+        "name": "Normal",
+        "getValue": 42751
+      },
+      {
+        "name": "Ender",
+        "getValue": 11403519
+      },
+      {
+        "name": "Mode",
+        "getValue": "BOX"
+      }
+    ]
+  },
+  {
+    "name": "optimizedchat",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Transparent Chat",
+        "getValue": false
+      },
+      {
+        "name": "Animated Chat",
+        "getValue": false
+      }
+    ]
+  },
+  {
+    "name": "animation",
+    "enabled": true,
+    "properties": [
+      {
+        "name": "Mode",
+        "getValue": "XIV"
+      },
+      {
+        "name": "Spin Speed",
+        "getValue": 0
+      },
+      {
+        "name": "Slowdown",
+        "getValue": false
+      },
+      {
+        "name": "Slowdown strength",
+        "getValue": 15
+      },
+      {
+        "name": "X Offset",
+        "getValue": 0.0
+      },
+      {
+        "name": "Y Offset",
+        "getValue": 0.0
+      },
+      {
+        "name": "Scale",
+        "getValue": 0.8
+      }
+    ]
+  },
+  {
+    "name": "longjump",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Mode",
+        "getValue": "WATCHDOG"
+      },
+      {
+        "name": "Glide",
+        "getValue": false
+      },
+      {
+        "name": "Glide modes",
+        "getValue": "RESET"
+      },
+      {
+        "name": "Boost",
+        "getValue": 0.3
+      },
+      {
+        "name": "Hypixel boost",
+        "getValue": 3.0
+      },
+      {
+        "name": "Reduction",
+        "getValue": 159
+      },
+      {
+        "name": "Timer",
+        "getValue": false
+      },
+      {
+        "name": "Timer multiply",
+        "getValue": 1.0
+      },
+      {
+        "name": "Bow boost",
+        "getValue": false
+      },
+      {
+        "name": "Y-Multiply",
+        "getValue": 1.0
+      }
+    ]
+  },
+  {
+    "name": "customminecraft",
+    "enabled": true,
+    "properties": [
+      {
+        "name": "Custom chat",
+        "getValue": false
+      },
+      {
+        "name": "Custom scoreboard",
+        "getValue": true
+      },
+      {
+        "name": "Custom hotbar",
+        "getValue": true
+      }
+    ]
+  },
+  {
+    "name": "fpsbooster",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Pit Improvements",
+        "getValue": false
+      }
+    ]
+  },
+  {
+    "name": "motiongraph",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Background",
+        "getValue": true
+      },
+      {
+        "name": "Chroma",
+        "getValue": false
+      }
+    ]
+  },
+  {
+    "name": "radar",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "X Position",
+        "getValue": 0
+      },
+      {
+        "name": "Y Position",
+        "getValue": 0
+      },
+      {
+        "name": "Width",
+        "getValue": 100.0
+      }
+    ]
+  },
+  {
+    "name": "irc",
+    "enabled": false,
+    "properties": []
+  },
+  {
+    "name": "streamermode",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Hide names",
+        "getValue": false
+      },
+      {
+        "name": "Hide game id",
+        "getValue": false
+      }
+    ]
+  },
+  {
+    "name": "nametags",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Players",
+        "getValue": true
+      },
+      {
+        "name": "Animals",
+        "getValue": false
+      },
+      {
+        "name": "Mobs",
+        "getValue": false
+      },
+      {
+        "name": "Invisibles",
+        "getValue": true
+      },
+      {
+        "name": "Passives",
+        "getValue": false
+      },
+      {
+        "name": "Font",
+        "getValue": true
+      },
+      {
+        "name": "Background",
+        "getValue": true
+      },
+      {
+        "name": "Blur",
+        "getValue": false
+      },
+      {
+        "name": "Distance",
+        "getValue": false
+      },
+      {
+        "name": "Health",
+        "getValue": true
+      },
+      {
+        "name": "Show Item",
+        "getValue": false
+      },
+      {
+        "name": "Armor",
+        "getValue": false
+      },
+      {
+        "name": "Armor enchantments",
+        "getValue": false
+      },
+      {
+        "name": "Third person",
+        "getValue": true
+      },
+      {
+        "name": "Color",
+        "getValue": -1
+      },
+      {
+        "name": "Target Color",
+        "getValue": -1
+      }
+    ]
+  },
+  {
+    "name": "teleportaura",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Range",
+        "getValue": 150.0
+      },
+      {
+        "name": "Sort mode",
+        "getValue": "FOV"
+      },
+      {
+        "name": "Ticks",
+        "getValue": 2
+      },
+      {
+        "name": "Skip distance",
+        "getValue": 9
+      },
+      {
+        "name": "Players",
+        "getValue": true
+      },
+      {
+        "name": "Teams",
+        "getValue": false
+      },
+      {
+        "name": "Animals",
+        "getValue": false
+      },
+      {
+        "name": "Mobs",
+        "getValue": false
+      },
+      {
+        "name": "Invisibles",
+        "getValue": false
+      },
+      {
+        "name": "Passives",
+        "getValue": false
+      }
+    ]
+  },
+  {
+    "name": "fastbow",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Mode",
+        "getValue": "REQUEST"
+      },
+      {
+        "name": "Phasing mode",
+        "getValue": "NORMAL"
+      }
+    ]
+  },
+  {
+    "name": "autoclicker",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Auto Block",
+        "getValue": true
+      }
+    ]
+  },
+  {
+    "name": "bloom",
+    "enabled": false,
+    "properties": []
+  },
+  {
+    "name": "blur",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Radius",
+        "getValue": 23
+      }
+    ]
+  },
+  {
+    "name": "pointers",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Players",
+        "getValue": false
+      },
+      {
+        "name": "Animals",
+        "getValue": false
+      },
+      {
+        "name": "Mobs",
+        "getValue": false
+      },
+      {
+        "name": "Invisibles",
+        "getValue": false
+      },
+      {
+        "name": "Passives",
+        "getValue": false
+      },
+      {
+        "name": "Size",
+        "getValue": 10.0
+      },
+      {
+        "name": "Radius",
+        "getValue": 45
+      },
+      {
+        "name": "Color Fade",
+        "getValue": true
+      },
+      {
+        "name": "Distance Color",
+        "getValue": false
+      },
+      {
+        "name": "Stretch",
+        "getValue": false
+      },
+      {
+        "name": "More Details",
+        "getValue": true
+      },
+      {
+        "name": "Health",
+        "getValue": true
+      },
+      {
+        "name": "Name",
+        "getValue": true
+      },
+      {
+        "name": "Color",
+        "getValue": -1
+      }
+    ]
+  },
+  {
+    "name": "pingspoof",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Delay",
+        "getValue": 950
+      },
+      {
+        "name": "Mode",
+        "getValue": "PACKET"
+      }
+    ]
+  },
+  {
+    "name": "backtracing",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Size",
+        "getValue": 9
+      }
+    ]
+  },
+  {
+    "name": "targets",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Show list",
+        "getValue": false
+      },
+      {
+        "name": "Visualize targets",
+        "getValue": false
+      },
+      {
+        "name": "X Position",
+        "getValue": 0
+      },
+      {
+        "name": "Y Position",
+        "getValue": 0
+      }
+    ]
+  },
+  {
+    "name": "regen",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Mode",
+        "getValue": "Experimental"
+      },
+      {
+        "name": "Speed",
+        "getValue": 24.0
+      }
+    ]
+  },
+  {
+    "name": "sneak",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Mode",
+        "getValue": "NCP"
+      }
+    ]
+  },
+  {
+    "name": "noweb",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Mode",
+        "getValue": "NORMAL"
+      }
+    ]
+  },
+  {
+    "name": "jesus",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Mode",
+        "getValue": "VANILLA"
+      }
+    ]
+  },
+  {
+    "name": "phase",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Mode",
+        "getValue": "ARIS"
+      },
+      {
+        "name": "Distance",
+        "getValue": 1.0
+      },
+      {
+        "name": "H-Speed",
+        "getValue": 2.0
+      },
+      {
+        "name": "V-Speed",
+        "getValue": 2.0
+      }
+    ]
+  },
+  {
+    "name": "targetstrafe",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Distance",
+        "getValue": 0.1
+      },
+      {
+        "name": "Angle",
+        "getValue": 90.0
+      },
+      {
+        "name": "Spacebar check",
+        "getValue": true
+      },
+      {
+        "name": "Render circle",
+        "getValue": true
+      },
+      {
+        "name": "Players",
+        "getValue": true
+      },
+      {
+        "name": "Animals",
+        "getValue": false
+      },
+      {
+        "name": "Mobs",
+        "getValue": false
+      },
+      {
+        "name": "Invisibles",
+        "getValue": true
+      }
+    ]
+  },
+  {
+    "name": "fastuse",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Delay",
+        "getValue": 2.0
+      }
+    ]
+  },
+  {
+    "name": "scoreboard",
+    "enabled": true,
+    "properties": [
+      {
+        "name": "Render Numbers",
+        "getValue": false
+      },
+      {
+        "name": "Left",
+        "getValue": false
+      },
+      {
+        "name": "Offset",
+        "getValue": 190
+      }
+    ]
+  },
+  {
+    "name": "criticals",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Mode",
+        "getValue": "NOGROUND"
+      }
+    ]
+  },
+  {
+    "name": "step",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Mode",
+        "getValue": "NCP"
+      },
+      {
+        "name": "Timer smooth",
+        "getValue": false
+      },
+      {
+        "name": "Height",
+        "getValue": 2.5
+      },
+      {
+        "name": "Delay",
+        "getValue": 0
+      }
+    ]
+  },
+  {
+    "name": "inventorymove",
+    "enabled": false,
+    "properties": []
+  },
+  {
+    "name": "hud",
+    "enabled": true,
+    "properties": [
+      {
+        "name": "Client Name",
+        "getValue": "lunar client"
+      },
+      {
+        "name": "General Color",
+        "getValue": "MOON"
+      },
+      {
+        "name": "Color",
+        "getValue": -1
+      },
+      {
+        "name": "Scale",
+        "getValue": 1.0
+      },
+      {
+        "name": "Minecraft Font",
+        "getValue": false
+      },
+      {
+        "name": "Watermark",
+        "getValue": true
+      },
+      {
+        "name": "CSGO Watermark",
+        "getValue": true
+      },
+      {
+        "name": "CSGO Mode",
+        "getValue": "SKEET"
+      },
+      {
+        "name": "Direction HUD",
+        "getValue": false
+      },
+      {
+        "name": "X Position",
+        "getValue": 547
+      },
+      {
+        "name": "Y Position",
+        "getValue": 4
+      },
+      {
+        "name": "Tab GUI",
+        "getValue": false
+      },
+      {
+        "name": "Info",
+        "getValue": true
+      },
+      {
+        "name": "FPS",
+        "getValue": true
+      },
+      {
+        "name": "TPS",
+        "getValue": true
+      },
+      {
+        "name": "BPS",
+        "getValue": true
+      },
+      {
+        "name": "Ping",
+        "getValue": true
+      },
+      {
+        "name": "Build",
+        "getValue": true
+      },
+      {
+        "name": "Coords",
+        "getValue": true
+      },
+      {
+        "name": "Potions",
+        "getValue": true
+      },
+      {
+        "name": "Arraylist",
+        "getValue": true
+      },
+      {
+        "name": "A-Color",
+        "getValue": "MOON"
+      },
+      {
+        "name": "Only Important",
+        "getValue": false
+      },
+      {
+        "name": "Background",
+        "getValue": true
+      },
+      {
+        "name": "Background Alpha",
+        "getValue": 87
+      },
+      {
+        "name": "Background Tone",
+        "getValue": 4
+      },
+      {
+        "name": "Line",
+        "getValue": true
+      },
+      {
+        "name": "Line Modes",
+        "getValue": "OUTLINED"
+      },
+      {
+        "name": "Distance Modifier",
+        "getValue": 0
+      },
+      {
+        "name": "Arraylist Pos.",
+        "getValue": "TOP_RIGHT"
+      }
+    ]
+  },
+  {
+    "name": "esp",
+    "enabled": true,
+    "properties": [
+      {
+        "name": "CSGO",
+        "getValue": true
+      },
+      {
+        "name": "Players",
+        "getValue": true
+      },
+      {
+        "name": "Animals",
+        "getValue": false
+      },
+      {
+        "name": "Mobs",
+        "getValue": false
+      },
+      {
+        "name": "Invisibles",
+        "getValue": false
+      },
+      {
+        "name": "Passives",
+        "getValue": false
+      },
+      {
+        "name": "Nametags",
+        "getValue": false
+      },
+      {
+        "name": "Box",
+        "getValue": true
+      },
+      {
+        "name": "Health bar",
+        "getValue": true
+      },
+      {
+        "name": "Health percentage",
+        "getValue": true
+      },
+      {
+        "name": "Health bar color",
+        "getValue": "HEALTH"
+      },
+      {
+        "name": "Armor bar",
+        "getValue": false
+      },
+      {
+        "name": "Information",
+        "getValue": false
+      },
+      {
+        "name": "Third person",
+        "getValue": true
+      },
+      {
+        "name": "Color",
+        "getValue": -14844939
+      },
+      {
+        "name": "Target Color",
+        "getValue": -1
+      }
+    ]
+  },
+  {
+    "name": "sprint",
+    "enabled": true,
+    "properties": []
+  },
+  {
+    "name": "clickgui",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Skeet width",
+        "getValue": 400
+      },
+      {
+        "name": "Skeet height",
+        "getValue": 350
+      },
+      {
+        "name": "Color",
+        "getValue": -46261
+      },
+      {
+        "name": "Mode",
+        "getValue": "TRANSPARENT"
+      },
+      {
+        "name": "Opening mode",
+        "getValue": "LINEAR"
+      },
+      {
+        "name": "Disable scrolling",
+        "getValue": false
+      }
+    ]
+  },
+  {
+    "name": "outlineesp",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Players",
+        "getValue": false
+      },
+      {
+        "name": "Animals",
+        "getValue": false
+      },
+      {
+        "name": "Mobs",
+        "getValue": false
+      },
+      {
+        "name": "Invisibles",
+        "getValue": false
+      },
+      {
+        "name": "Passives",
+        "getValue": false
+      },
+      {
+        "name": "Third person",
+        "getValue": true
+      },
+      {
+        "name": "Shader Outline",
+        "getValue": false
+      },
+      {
+        "name": "Color",
+        "getValue": -1
+      },
+      {
+        "name": "Target Color",
+        "getValue": -1
+      }
+    ]
+  },
+  {
+    "name": "fullbright",
+    "enabled": false,
+    "properties": []
+  },
+  {
+    "name": "speed",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Mode",
+        "getValue": "STRAFE"
+      },
+      {
+        "name": "Verus modes",
+        "getValue": "FASTGROUND"
+      },
+      {
+        "name": "Vanilla speed",
+        "getValue": 2.8
+      },
+      {
+        "name": "BHop speed",
+        "getValue": 0.1
+      },
+      {
+        "name": "Jump motion",
+        "getValue": 0.42
+      },
+      {
+        "name": "Jump boost",
+        "getValue": 1.0
+      },
+      {
+        "name": "Speed effect mult",
+        "getValue": 0.3
+      }
+    ]
+  },
+  {
+    "name": "velocity",
+    "enabled": true,
+    "properties": [
+      {
+        "name": "Mode",
+        "getValue": "NORMAL"
+      },
+      {
+        "name": "H-Velocity",
+        "getValue": 0
+      },
+      {
+        "name": "V-Velocity",
+        "getValue": 0
+      },
+      {
+        "name": "Alert",
+        "getValue": false
+      },
+      {
+        "name": "Auto Disable",
+        "getValue": false
+      },
+      {
+        "name": "Delay",
+        "getValue": 50
+      },
+      {
+        "name": "Delay ping",
+        "getValue": false
+      },
+      {
+        "name": "Stack size",
+        "getValue": 2
+      },
+      {
+        "name": "C-H-Velocity",
+        "getValue": 0
+      },
+      {
+        "name": "C-V-Velocity",
+        "getValue": 0
+      },
+      {
+        "name": "Delay",
+        "getValue": 0
+      },
+      {
+        "name": "Horizontal Reverse",
+        "getValue": false
+      }
+    ]
+  },
+  {
+    "name": "antibot",
+    "enabled": true,
+    "properties": [
+      {
+        "name": "Mode",
+        "getValue": "WATCHDOG"
+      },
+      {
+        "name": "Remove entities",
+        "getValue": true
+      }
+    ]
+  },
+  {
+    "name": "killaura",
+    "enabled": true,
+    "properties": [
+      {
+        "name": "Range",
+        "getValue": 4.0
+      },
+      {
+        "name": "Players",
+        "getValue": true
+      },
+      {
+        "name": "Moon Users",
+        "getValue": true
+      },
+      {
+        "name": "Animals",
+        "getValue": false
+      },
+      {
+        "name": "Mobs",
+        "getValue": false
+      },
+      {
+        "name": "Invisibles",
+        "getValue": false
+      },
+      {
+        "name": "Prioritize targets",
+        "getValue": true
+      },
+      {
+        "name": "Teams",
+        "getValue": false
+      },
+      {
+        "name": "Auto block",
+        "getValue": true
+      },
+      {
+        "name": "Block range",
+        "getValue": 7.0
+      },
+      {
+        "name": "Attack Ray",
+        "getValue": false
+      },
+      {
+        "name": "Hitmarker",
+        "getValue": false
+      },
+      {
+        "name": "Visualize range",
+        "getValue": false
+      },
+      {
+        "name": "Target HUD",
+        "getValue": true
+      },
+      {
+        "name": "Target HUD Mode",
+        "getValue": "ASTOLFO"
+      },
+      {
+        "name": "CPS",
+        "getValue": 11
+      },
+      {
+        "name": "Turn speed",
+        "getValue": 180.0
+      },
+      {
+        "name": "Target modes",
+        "getValue": "SORT"
+      },
+      {
+        "name": "Sort modes",
+        "getValue": "DISTANCE"
+      },
+      {
+        "name": "Rotation modes",
+        "getValue": "BASIC"
+      },
+      {
+        "name": "Movement correction",
+        "getValue": false
+      },
+      {
+        "name": "Center modes",
+        "getValue": "NECK"
+      },
+      {
+        "name": "Random center",
+        "getValue": false
+      },
+      {
+        "name": "Randomize rotation",
+        "getValue": false
+      },
+      {
+        "name": "Randomization amount",
+        "getValue": 15.0
+      },
+      {
+        "name": "Randomize turn speed",
+        "getValue": false
+      },
+      {
+        "name": "Randomize amount",
+        "getValue": 40.0
+      },
+      {
+        "name": "Smart",
+        "getValue": false
+      },
+      {
+        "name": "Correction modes",
+        "getValue": "NORMAL"
+      },
+      {
+        "name": "Attack events",
+        "getValue": "PRE"
+      },
+      {
+        "name": "Click pattern",
+        "getValue": "ADVANCED"
+      },
+      {
+        "name": "Attack modes",
+        "getValue": "ARTIFICIAL"
+      },
+      {
+        "name": "Raytrace",
+        "getValue": false
+      },
+      {
+        "name": "Inventory attack",
+        "getValue": false
+      },
+      {
+        "name": "Don\u0027t click on blocks",
+        "getValue": false
+      },
+      {
+        "name": "Don\u0027t click if you miss",
+        "getValue": false
+      },
+      {
+        "name": "Auto Block modes",
+        "getValue": "WATCHDOG"
+      },
+      {
+        "name": "Mouse Auto Block modes",
+        "getValue": "ATTACK_SYNC"
+      },
+      {
+        "name": "Particle multiplier",
+        "getValue": 1
+      },
+      {
+        "name": "Unblock on attack",
+        "getValue": false
+      },
+      {
+        "name": "X Position",
+        "getValue": 403
+      },
+      {
+        "name": "Y Position",
+        "getValue": 292
+      }
+    ]
+  },
+  {
+    "name": "autodisable",
+    "enabled": false,
+    "properties": []
+  },
+  {
+    "name": "noslowdown",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Mode",
+        "getValue": "NCP"
+      },
+      {
+        "name": "Swords",
+        "getValue": true
+      },
+      {
+        "name": "Consumables",
+        "getValue": true
+      },
+      {
+        "name": "Sprint",
+        "getValue": true
+      },
+      {
+        "name": "Soul Sand",
+        "getValue": true
+      }
+    ]
+  },
+  {
+    "name": "inventorymanager",
+    "enabled": true,
+    "properties": [
+      {
+        "name": "Delay",
+        "getValue": 100
+      },
+      {
+        "name": "Delay randomization",
+        "getValue": 0
+      },
+      {
+        "name": "Inventory Cleaner",
+        "getValue": true
+      },
+      {
+        "name": "Block limit",
+        "getValue": 256
+      },
+      {
+        "name": "Keep bows",
+        "getValue": true
+      },
+      {
+        "name": "Keep tools",
+        "getValue": true
+      },
+      {
+        "name": "Hotbar tools",
+        "getValue": false
+      },
+      {
+        "name": "Tools slot",
+        "getValue": 1
+      },
+      {
+        "name": "Auto Armor",
+        "getValue": true
+      },
+      {
+        "name": "Auto Sword",
+        "getValue": true
+      },
+      {
+        "name": "Anti custom",
+        "getValue": true
+      },
+      {
+        "name": "Inventory state",
+        "getValue": "OPEN"
+      },
+      {
+        "name": "Auto Potion",
+        "getValue": false
+      },
+      {
+        "name": "Potion throw delay",
+        "getValue": 2450
+      },
+      {
+        "name": "Heal Potion",
+        "getValue": false
+      },
+      {
+        "name": "Activation health",
+        "getValue": 15
+      },
+      {
+        "name": "Regen Potion",
+        "getValue": false
+      },
+      {
+        "name": "Speed Potion",
+        "getValue": false
+      },
+      {
+        "name": "Resistance Potion",
+        "getValue": false
+      },
+      {
+        "name": "Frog Potion",
+        "getValue": false
+      }
+    ]
+  },
+  {
+    "name": "cheststealer",
+    "enabled": true,
+    "properties": [
+      {
+        "name": "Delay",
+        "getValue": 50
+      },
+      {
+        "name": "Delay randomization",
+        "getValue": 0
+      },
+      {
+        "name": "Ignore trash",
+        "getValue": true
+      },
+      {
+        "name": "Shuffle",
+        "getValue": true
+      },
+      {
+        "name": "Miss",
+        "getValue": false
+      },
+      {
+        "name": "Miss Chance",
+        "getValue": 5
+      },
+      {
+        "name": "Silent steal",
+        "getValue": false
+      },
+      {
+        "name": "Render gui",
+        "getValue": false
+      },
+      {
+        "name": "Game GUI",
+        "getValue": false
+      },
+      {
+        "name": "Custom inventories",
+        "getValue": false
+      }
+    ]
+  },
+  {
+    "name": "norotate",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Client Sided",
+        "getValue": true
+      }
+    ]
+  },
+  {
+    "name": "disabler",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Mode",
+        "getValue": "VERUS_SEMI"
+      }
+    ]
+  },
+  {
+    "name": "antivoid",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Fall distance",
+        "getValue": 5.0
+      }
+    ]
+  },
+  {
+    "name": "flight",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Mode",
+        "getValue": "VANILLA"
+      },
+      {
+        "name": "Verus mode",
+        "getValue": "DEV"
+      },
+      {
+        "name": "Boost modes",
+        "getValue": "EXPLOIT"
+      },
+      {
+        "name": "View bobbing",
+        "getValue": false
+      },
+      {
+        "name": "Boost",
+        "getValue": false
+      },
+      {
+        "name": "Timer boost",
+        "getValue": false
+      },
+      {
+        "name": "Wait for damage",
+        "getValue": false
+      },
+      {
+        "name": "Blink",
+        "getValue": false
+      },
+      {
+        "name": "Blink indicator",
+        "getValue": false
+      },
+      {
+        "name": "Blink length",
+        "getValue": 33
+      },
+      {
+        "name": "Dropdown",
+        "getValue": false
+      },
+      {
+        "name": "Flight speed",
+        "getValue": 3.0
+      },
+      {
+        "name": "Randomize amount",
+        "getValue": 50.0
+      },
+      {
+        "name": "Randomize threshold",
+        "getValue": 15.0
+      },
+      {
+        "name": "Timer boost",
+        "getValue": 2.5
+      },
+      {
+        "name": "Timer length",
+        "getValue": 800
+      },
+      {
+        "name": "Vanilla speed",
+        "getValue": 4.2
+      },
+      {
+        "name": "Mineplex speed",
+        "getValue": 2.0
+      },
+      {
+        "name": "Mineplex timer",
+        "getValue": 0.4
+      },
+      {
+        "name": "Mineplex acceleration",
+        "getValue": 0.09
+      }
+    ]
+  },
+  {
+    "name": "autotool",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Click check",
+        "getValue": true
+      },
+      {
+        "name": "Silent switch",
+        "getValue": false
+      }
+    ]
+  },
+  {
+    "name": "chams",
+    "enabled": true,
+    "properties": [
+      {
+        "name": "Shader Chams",
+        "getValue": false
+      },
+      {
+        "name": "Shader Alpha",
+        "getValue": 0.5
+      },
+      {
+        "name": "Texture chams",
+        "getValue": false
+      },
+      {
+        "name": "Render Armor",
+        "getValue": true
+      },
+      {
+        "name": "Visible modes",
+        "getValue": "BRIGHT"
+      },
+      {
+        "name": "Hidden modes",
+        "getValue": "BRIGHT"
+      },
+      {
+        "name": "Visible color",
+        "getValue": -65536
+      },
+      {
+        "name": "Hidden color",
+        "getValue": -65281
+      },
+      {
+        "name": "Target color",
+        "getValue": -65281
+      },
+      {
+        "name": "Players",
+        "getValue": false
+      },
+      {
+        "name": "Animals",
+        "getValue": false
+      },
+      {
+        "name": "Mobs",
+        "getValue": false
+      },
+      {
+        "name": "Invisibles",
+        "getValue": false
+      },
+      {
+        "name": "Passives",
+        "getValue": false
+      },
+      {
+        "name": "Team color",
+        "getValue": false
+      },
+      {
+        "name": "Mixing percentage",
+        "getValue": 0.5
+      },
+      {
+        "name": "Shader color",
+        "getValue": 16711935
+      }
+    ]
+  },
+  {
+    "name": "autojoin",
+    "enabled": true,
+    "properties": [
+      {
+        "name": "Type",
+        "getValue": "INSANE"
+      },
+      {
+        "name": "Teams",
+        "getValue": false
+      },
+      {
+        "name": "Delay",
+        "getValue": 77
+      }
+    ]
+  },
+  {
+    "name": "autogg",
+    "enabled": false,
+    "properties": []
+  },
+  {
+    "name": "glow",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Radius",
+        "getValue": 3.0
+      },
+      {
+        "name": "Alpha",
+        "getValue": 1.5
+      },
+      {
+        "name": "Cut Entity",
+        "getValue": false
+      },
+      {
+        "name": "Blur twice",
+        "getValue": false
+      },
+      {
+        "name": "Color",
+        "getValue": -1
+      },
+      {
+        "name": "Hurttime color",
+        "getValue": -65536
+      },
+      {
+        "name": "Target color",
+        "getValue": -16711936
+      }
+    ]
+  },
+  {
+    "name": "crosshair",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Dynamic",
+        "getValue": true
+      },
+      {
+        "name": "Dynamic Gap",
+        "getValue": 1.5
+      },
+      {
+        "name": "Width",
+        "getValue": 1.0
+      },
+      {
+        "name": "Gap",
+        "getValue": 3.0
+      },
+      {
+        "name": "Length",
+        "getValue": 7.0
+      },
+      {
+        "name": "Rainbow",
+        "getValue": false
+      },
+      {
+        "name": "Color",
+        "getValue": -1
+      },
+      {
+        "name": "Static Fade",
+        "getValue": false
+      }
+    ]
+  },
+  {
+    "name": "speedmine",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Speed",
+        "getValue": 0.2
+      }
+    ]
+  },
+  {
+    "name": "hackerdetector",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Speed Detection",
+        "getValue": true
+      },
+      {
+        "name": "Fly Detection",
+        "getValue": true
+      },
+      {
+        "name": "NoFall Detection",
+        "getValue": true
+      }
+    ]
+  },
+  {
+    "name": "nickdetector",
+    "enabled": false,
+    "properties": []
+  },
+  {
+    "name": "sessioninformation",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "X Position",
+        "getValue": 0
+      },
+      {
+        "name": "Y Position",
+        "getValue": 33
+      }
+    ]
+  },
+  {
+    "name": "banstatistics",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "X Position",
+        "getValue": 0
+      },
+      {
+        "name": "Y Position",
+        "getValue": 0
+      }
+    ]
+  },
+  {
+    "name": "reach",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Reach",
+        "getValue": 3.0
+      },
+      {
+        "name": "Hit box expansion",
+        "getValue": 0.0
+      },
+      {
+        "name": "Legit HitBox Vector",
+        "getValue": true
+      }
+    ]
+  },
+  {
+    "name": "itemsize",
+    "enabled": true,
+    "properties": [
+      {
+        "name": "X",
+        "getValue": 0.0
+      },
+      {
+        "name": "Y",
+        "getValue": 0.0
+      },
+      {
+        "name": "Scale",
+        "getValue": 0.5
+      }
+    ]
+  },
+  {
+    "name": "configgui",
+    "enabled": false,
+    "properties": []
+  },
+  {
+    "name": "trajectories",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Color",
+        "getValue": -1
+      }
+    ]
+  },
+  {
+    "name": "hitmarker",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Distance",
+        "getValue": 2.0
+      },
+      {
+        "name": "Length",
+        "getValue": 6.0
+      },
+      {
+        "name": "Width",
+        "getValue": 1.0
+      },
+      {
+        "name": "Sound",
+        "getValue": false
+      },
+      {
+        "name": "Sound Mode",
+        "getValue": "SKEET"
+      }
+    ]
+  },
+  {
+    "name": "chinahat",
+    "enabled": false,
+    "properties": []
+  },
+  {
+    "name": "binds",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "X Position",
+        "getValue": 0
+      },
+      {
+        "name": "Y Position",
+        "getValue": 0
+      },
+      {
+        "name": "Enabled Only",
+        "getValue": false
+      },
+      {
+        "name": "Fade out",
+        "getValue": false
+      }
+    ]
+  },
+  {
+    "name": "statistics",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "X Position",
+        "getValue": 0
+      },
+      {
+        "name": "Y Position",
+        "getValue": 0
+      }
+    ]
+  },
+  {
+    "name": "discord",
+    "enabled": false,
+    "properties": []
+  },
+  {
+    "name": "terrainspeed",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Mode",
+        "getValue": "MMC"
+      },
+      {
+        "name": "Water",
+        "getValue": false
+      },
+      {
+        "name": "Ladder",
+        "getValue": false
+      },
+      {
+        "name": "Spider",
+        "getValue": false
+      },
+      {
+        "name": "Below blocks",
+        "getValue": false
+      },
+      {
+        "name": "Velocity Speed",
+        "getValue": false
+      }
+    ]
+  },
+  {
+    "name": "autoclip",
+    "enabled": false,
+    "properties": []
+  },
+  {
+    "name": "autodisable",
+    "enabled": true,
+    "properties": []
+  },
+  {
+    "name": "damagefly",
+    "enabled": false,
+    "properties": [
+      {
+        "name": "Speed",
+        "getValue": 1.0
+      },
+      {
+        "name": "Timer",
+        "getValue": 2.5
+      }
+    ]
+  }
+]
