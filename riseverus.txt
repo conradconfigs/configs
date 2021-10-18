@@ -28,7 +28,7 @@ ModeSetting_Fly_Mode_Stable
 NumberSetting_Fly_Mode_1.0
 BooleanSetting_Fly_Auto Rebow_false
 NumberSetting_Fly_Fly Speed_2.52
-NumberSetting_Fly_Verus Speed_1.7
+NumberSetting_Fly_Verus Speed_2.0
 NumberSetting_Fly_Up Amount_1.48
 NumberSetting_Fly_H Boost first tick_0.9
 NumberSetting_Fly_V Boost first tick_0.0
@@ -158,10 +158,10 @@ NumberSetting_AutoHead_Min Delay_300.0
 NumberSetting_AutoHead_Max Delay_500.0
 Toggle_Aura_false
 ModeSetting_Aura_Mode_Single
-ModeSetting_Aura_Rotation Mode_Smooth
+ModeSetting_Aura_Rotation Mode_Custom Simple
 ModeSetting_Aura_Block Mode_Fake
 ModeSetting_Aura_Sorting Mode_Health
-NumberSetting_Aura_Range_4.0
+NumberSetting_Aura_Range_3.5
 NumberSetting_Aura_Rotation Range_6.0
 NumberSetting_Aura_Extended Range_12.0
 BooleanSetting_Aura_Extended Range_false
@@ -171,7 +171,7 @@ NumberSetting_Aura_Max Targets_50.0
 NumberSetting_Aura_Predict_0.0
 NumberSetting_Aura_Random_0.0
 NumberSetting_Aura_Max Rot_180.0
-NumberSetting_Aura_Min Rot_69.02
+NumberSetting_Aura_Min Rot_180.0
 NumberSetting_Aura_Min Yaw Rot_180.0
 NumberSetting_Aura_Max Yaw Rot_180.0
 NumberSetting_Aura_Min Pitch Rot_180.0
@@ -181,7 +181,7 @@ BooleanSetting_Aura_Pitch Fix_false
 NumberSetting_Aura_Min Pitch Fix_3.0
 NumberSetting_Aura_Max Pitch Fix_9.0
 NumberSetting_Aura_Derp Speed_80.0
-BooleanSetting_Aura_Raytrace_false
+BooleanSetting_Aura_Raytrace_true
 BooleanSetting_Aura_Realistic Swings_false
 BooleanSetting_Aura_Through Walls_false
 BooleanSetting_Aura_Silent Rotations_true
@@ -376,7 +376,7 @@ BooleanSetting_Disabler_Ghostly Reach_false
 BooleanSetting_Disabler_Ghostly_false
 BooleanSetting_Disabler_Lunar_false
 BooleanSetting_Disabler_Hide Old Disablers_false
-BooleanSetting_Disabler_Verus Old_true
+BooleanSetting_Disabler_Verus Old_false
 BooleanSetting_Disabler_Verus Combat_true
 BooleanSetting_Disabler_Latest Verus_true
 BooleanSetting_Disabler_Spartan_false
@@ -402,9 +402,9 @@ Toggle_Insults_false
 ModeSetting_Insults_Mode_Sigma
 Toggle_ChatBypass_true
 ModeSetting_ChatBypass_Mode_Normal
-Toggle_Breaker_false
+Toggle_Breaker_true
 NumberSetting_Breaker_Range_4.0
-BooleanSetting_Breaker_Swing_false
+BooleanSetting_Breaker_Swing_true
 BooleanSetting_Breaker_Cake_false
 BooleanSetting_Breaker_Bed_true
 BooleanSetting_Breaker_Whitelist own bed_true
@@ -422,7 +422,7 @@ BooleanSetting_Nuker_Instant Only_false
 BooleanSetting_Nuker_Swing_true
 Toggle_Timer_false
 NumberSetting_Timer_Timer Speed_0.2
-ModeSetting_Timer_Mode_Vanilla
+ModeSetting_Timer_Mode_MMC
 Toggle_Spammer_false
 ModeSetting_Spammer_Mode_Normal
 ModeSetting_Spammer_Lobby_Main
@@ -430,7 +430,7 @@ NumberSetting_Spammer_Delay_50.0
 ModeSetting_Spammer_Bypass Mode_Random
 NumberSetting_Spammer_Bypass Length_8.0
 Toggle_Crasher_false
-ModeSetting_Crasher_Mode_Pex
+ModeSetting_Crasher_Mode_Block Click
 Toggle_PingSpoof_false
 NumberSetting_PingSpoof_Delay_30000.0
 BooleanSetting_PingSpoof_KeepAlives_true
