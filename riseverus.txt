@@ -18,7 +18,7 @@ BooleanSetting_Interface_Blocks Per Second Counter_true
 BooleanSetting_Interface_Keystrokes_false
 NumberSetting_Interface_KeystrokesX_34.5
 NumberSetting_Interface_KeystrokesY_72.5
-ModeSetting_Interface_Cape_Electric Sky
+ModeSetting_Interface_Cape_Night
 Toggle_TabGui_false
 Toggle_Sprint_true
 BooleanSetting_Sprint_All Directions_true
@@ -26,7 +26,7 @@ BooleanSetting_Sprint_Only In Air_true
 Toggle_Sneak_false
 ModeSetting_Sneak_Mode_Always
 Toggle_Fly_false
-ModeSetting_Fly_Fly Mode_Verus
+ModeSetting_Fly_Fly Mode_Vicnix
 ModeSetting_Fly_Value_1
 ModeSetting_Fly_Mode_Stable
 NumberSetting_Fly_Mode_1.0
@@ -131,8 +131,8 @@ Toggle_InvMove_true
 NumberSetting_InvMove_Slow Down_0.5
 BooleanSetting_InvMove_Packet_false
 Toggle_Step_true
-ModeSetting_Step_Mode_Vanilla
-NumberSetting_Step_Height_2.5
+ModeSetting_Step_Mode_Delay
+NumberSetting_Step_Height_1.5
 NumberSetting_Step_Timer_0.1
 Toggle_Phase_false
 ModeSetting_Phase_Mode_Clip
@@ -163,16 +163,16 @@ Toggle_Aura_false
 ModeSetting_Aura_Mode_Single
 ModeSetting_Aura_Rotation Mode_Smooth
 ModeSetting_Aura_Block Mode_Fake
-ModeSetting_Aura_Sorting Mode_Distance
-NumberSetting_Aura_Range_4.0
+ModeSetting_Aura_Sorting Mode_Hurttime
+NumberSetting_Aura_Range_3.4
 NumberSetting_Aura_Rotation Range_4.0
 NumberSetting_Aura_Extended Range_12.0
 BooleanSetting_Aura_Extended Range_false
-NumberSetting_Aura_Min CPS_13.0
-NumberSetting_Aura_Max CPS_16.0
+NumberSetting_Aura_Min CPS_8.0
+NumberSetting_Aura_Max CPS_17.0
 NumberSetting_Aura_Max Targets_50.0
-NumberSetting_Aura_Predict_1.5
-NumberSetting_Aura_Random_9.1
+NumberSetting_Aura_Predict_2.0
+NumberSetting_Aura_Random_1.0
 NumberSetting_Aura_Max Rot_180.0
 NumberSetting_Aura_Min Rot_180.0
 NumberSetting_Aura_Min Yaw Rot_77.1
@@ -184,7 +184,7 @@ BooleanSetting_Aura_Pitch Fix_false
 NumberSetting_Aura_Min Pitch Fix_3.0
 NumberSetting_Aura_Max Pitch Fix_9.0
 NumberSetting_Aura_Derp Speed_80.0
-BooleanSetting_Aura_Predicted Position_false
+BooleanSetting_Aura_Predicted Position_true
 BooleanSetting_Aura_Raytrace_true
 BooleanSetting_Aura_Realistic Swings_true
 BooleanSetting_Aura_Through Walls_false
@@ -203,7 +203,7 @@ BooleanSetting_Aura_Target ESP_false
 BooleanSetting_Aura_Display Range_false
 BooleanSetting_Aura_Disable On World Change_true
 BooleanSetting_Aura_Attack with Scaffold_false
-BooleanSetting_Aura_Attack in Interfaces_true
+BooleanSetting_Aura_Attack in Interfaces_false
 Toggle_TPAura_false
 ModeSetting_TPAura_Mode_Single
 NumberSetting_TPAura_CPS_1.0
@@ -234,7 +234,7 @@ NumberSetting_Velocity_Timer_1.0
 NumberSetting_Velocity_Timer Ticks_0.0
 NumberSetting_Velocity_Ticks_3.0
 Toggle_TargetStrafe_true
-NumberSetting_TargetStrafe_Range_2.0
+NumberSetting_TargetStrafe_Range_2.5
 BooleanSetting_TargetStrafe_Third Person_false
 BooleanSetting_TargetStrafe_Controllable_false
 BooleanSetting_TargetStrafe_Jump Only_true
@@ -296,13 +296,13 @@ BooleanSetting_FastPlace_Randomize_false
 Toggle_FastEat_false
 ModeSetting_FastEat_Mode_Normal
 NumberSetting_FastEat_Speed_5.0600000000000005
-Toggle_NoVoid_true
+Toggle_NoVoid_false
 ModeSetting_NoVoid_Mode_Jump
 NumberSetting_NoVoid_Fall Distance_1.0
 BooleanSetting_NoVoid_Void Check_true
 BooleanSetting_NoVoid_Show Notifications_false
 Toggle_NoFall_true
-ModeSetting_NoFall_Mode_Verus
+ModeSetting_NoFall_Mode_Collision
 BooleanSetting_NoFall_Offset_false
 Toggle_Scaffold_false
 ModeSetting_Scaffold_Tower_Constant
@@ -312,8 +312,8 @@ ModeSetting_Scaffold_Speed_None
 ModeSetting_Scaffold_SameY_None
 ModeSetting_Scaffold_Move Fix_None
 ModeSetting_Scaffold_Sneak_Off
-NumberSetting_Scaffold_Tower Timer_1.5
-NumberSetting_Scaffold_Timer_1.5
+NumberSetting_Scaffold_Tower Timer_1.6
+NumberSetting_Scaffold_Timer_1.6
 BooleanSetting_Scaffold_Safe Walk_false
 NumberSetting_Scaffold_Place Delay_1.0
 BooleanSetting_Scaffold_Randomise Place Delay_true
@@ -377,7 +377,7 @@ ModeSetting_AutoHypixel_Skywars Mode_Solo
 ModeSetting_AutoHypixel_Skywars Type_Insane
 ModeSetting_AutoHypixel_Bedwars Mode_Solo
 NumberSetting_AutoHypixel_Play Delay_3000.0
-Toggle_Disabler_true
+Toggle_Disabler_false
 BooleanSetting_Disabler_Minemenclub Full_false
 BooleanSetting_Disabler_Minemenclub Keepsprint Check_true
 BooleanSetting_Disabler_Minemenclub Reach Semi_false
@@ -499,7 +499,7 @@ Toggle_ChinaHat_true
 ModeSetting_ChinaHat_Quality_High
 BooleanSetting_ChinaHat_Show in First Person_false
 BooleanSetting_ChinaHat_Rotate_false
-Toggle_Hitmarkers_false
+Toggle_Hitmarkers_true
 NumberSetting_Hitmarkers_Volume_0.6
 NumberSetting_Hitmarkers_Pitch_1.0
 BooleanSetting_Hitmarkers_Random Pitch_false
