@@ -302,7 +302,7 @@ NumberSetting_NoVoid_Fall Distance_1.0
 BooleanSetting_NoVoid_Void Check_true
 BooleanSetting_NoVoid_Show Notifications_false
 Toggle_NoFall_true
-ModeSetting_NoFall_Mode_Collision
+ModeSetting_NoFall_Mode_Tick
 BooleanSetting_NoFall_Offset_false
 Toggle_Scaffold_false
 ModeSetting_Scaffold_Tower_Constant
