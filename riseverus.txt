@@ -31,7 +31,7 @@ ModeSetting_Fly_Value_1
 ModeSetting_Fly_Mode_Stable
 NumberSetting_Fly_Mode_1.0
 BooleanSetting_Fly_Auto Rebow_false
-NumberSetting_Fly_Fly Speed_1.6
+NumberSetting_Fly_Fly Speed_1.0
 BooleanSetting_Fly_Auto Stop_true
 NumberSetting_Fly_H Boost first tick_0.9
 NumberSetting_Fly_V Boost first tick_0.0
@@ -54,16 +54,16 @@ NumberSetting_Fly_Friction Divider_29.720000000000002
 NumberSetting_Fly_Glide_0.03
 NumberSetting_Fly_Timer_0.6
 Toggle_Speed_false
-ModeSetting_Speed_Mode_Verus Latest
+ModeSetting_Speed_Mode_Custom
 ModeSetting_Speed_Value_2
 ModeSetting_Speed_GroundSpoof_Off
-NumberSetting_Speed_Custom Speed_0.4
-NumberSetting_Speed_Custom MotionY_0.48
+NumberSetting_Speed_Custom Speed_0.68
+NumberSetting_Speed_Custom MotionY_0.3
 NumberSetting_Speed_Custom Fall Motion_0.2
 NumberSetting_Speed_Custom Fall Tick_10.0
 NumberSetting_Speed_Randomize Speed_0.0
 NumberSetting_Speed_Void TP Ticks_1.0
-NumberSetting_Speed_Timer_1.1
+NumberSetting_Speed_Timer_1.0
 NumberSetting_Speed_Timer Random_10.0
 NumberSetting_Speed_GroundSpoof Ticks_10.0
 NumberSetting_Speed_Teleport Distance_0.03
@@ -131,7 +131,7 @@ NumberSetting_LongJump_View Bobbing_0.0
 Toggle_InvMove_true
 NumberSetting_InvMove_Slow Down_0.5
 BooleanSetting_InvMove_Packet_false
-Toggle_Step_true
+Toggle_Step_false
 ModeSetting_Step_Mode_Delay
 NumberSetting_Step_Height_1.5
 NumberSetting_Step_Timer_0.1
@@ -166,20 +166,20 @@ ModeSetting_Aura_Rotation Mode_Smooth
 ModeSetting_Aura_Block Mode_Vanilla
 ModeSetting_Aura_Sorting Mode_Hurttime
 NumberSetting_Aura_Range_4.5
-NumberSetting_Aura_Rotation Range_4.5
+NumberSetting_Aura_Rotation Range_4.6
 NumberSetting_Aura_Extended Range_12.0
 BooleanSetting_Aura_Extended Range_false
 NumberSetting_Aura_Min CPS_20.0
 NumberSetting_Aura_Max CPS_20.0
 NumberSetting_Aura_Max Targets_50.0
-NumberSetting_Aura_Predict_2.0
+NumberSetting_Aura_Predict_1.0
 NumberSetting_Aura_Random_10.0
-NumberSetting_Aura_Max Rot_180.0
-NumberSetting_Aura_Min Rot_180.0
-NumberSetting_Aura_Min Yaw Rot_77.1
-NumberSetting_Aura_Max Yaw Rot_93.2
-NumberSetting_Aura_Min Pitch Rot_125.4
-NumberSetting_Aura_Max Pitch Rot_180.0
+NumberSetting_Aura_Max Rot_117.4
+NumberSetting_Aura_Min Rot_81.6
+NumberSetting_Aura_Min Yaw Rot_1.0
+NumberSetting_Aura_Max Yaw Rot_136.1
+NumberSetting_Aura_Min Pitch Rot_143.3
+NumberSetting_Aura_Max Pitch Rot_35.9
 NumberSetting_Aura_Sin Speed_180.0
 BooleanSetting_Aura_Pitch Fix_false
 NumberSetting_Aura_Min Pitch Fix_3.0
@@ -213,7 +213,7 @@ BooleanSetting_FastBow_Timer Bypass_true
 BooleanSetting_FastBow_Invisibles_true
 BooleanSetting_FastBow_Players_true
 BooleanSetting_FastBow_Non Players_true
-Toggle_TPAura_true
+Toggle_TPAura_false
 ModeSetting_TPAura_Mode_Single
 NumberSetting_TPAura_CPS_8.0
 NumberSetting_TPAura_Range_15.0
@@ -334,7 +334,7 @@ ModeSetting_Scaffold_Speed_None
 ModeSetting_Scaffold_SameY_None
 ModeSetting_Scaffold_Move Fix_None
 ModeSetting_Scaffold_Sneak_Off
-NumberSetting_Scaffold_Tower Timer_1.4
+NumberSetting_Scaffold_Tower Timer_1.0
 NumberSetting_Scaffold_Timer_1.0
 BooleanSetting_Scaffold_Safe Walk_false
 NumberSetting_Scaffold_Place Delay_1.0
@@ -410,11 +410,11 @@ BooleanSetting_Disabler_Dynamic PvP_false
 BooleanSetting_Disabler_Ghostly Reach_false
 BooleanSetting_Disabler_Ghostly_false
 BooleanSetting_Disabler_Lunar_false
-BooleanSetting_Disabler_Verus Partial_true
+BooleanSetting_Disabler_Verus Partial_false
 BooleanSetting_Disabler_Position Edit_true
 BooleanSetting_Disabler_Verus Combat_true
 BooleanSetting_Disabler_Verus_true
-BooleanSetting_Disabler_Hide Old Disablers_false
+BooleanSetting_Disabler_Hide Old Disablers_true
 BooleanSetting_Disabler_Verus Old_false
 BooleanSetting_Disabler_Latest Verus_false
 BooleanSetting_Disabler_Spartan_false
@@ -551,7 +551,7 @@ BooleanSetting_Animations_Smooth Swing_false
 BooleanSetting_Animations_Reset Position_false
 BooleanSetting_Animations_Always Show_false
 Toggle_Ambiance_true
-NumberSetting_Ambiance_Time_15524.0
+NumberSetting_Ambiance_Time_115.0
 NumberSetting_Ambiance_Time Speed_0.0
 Toggle_AttackEffects_false
 ModeSetting_AttackEffects_Mode_Blood
